@@ -1,0 +1,36 @@
+img {
+  width: 100px;
+  border-radius: 8px;
+}
+
+table {
+
+background-color: LightGoldenRodYellow;
+width: 375px;
+}
+
+td {
+text-align: center;
+padding: 10px;
+}
+
+#product_container {
+
+margin-left: 100px;
+width: 400px;
+text-align: center;
+}
+
+#minidiv1 {
+	width: 125px;
+	float: left;
+	padding-top: 10px;
+
+}
+#minidiv2 {
+	width: 125px;
+	float: right;
+	padding-top: 10px;
+
+
+}
